@@ -1,0 +1,25 @@
+body{
+    background-color: #ADADAD;
+     font-family: "Gloria Hallelujah", cursive;
+}
+
+p{
+    font-size: 30px;
+}
+
+.red{
+    color: #E7F527;
+}
+
+#main-imagen {
+    width: 200px;
+
+    margin: 20px;
+
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    border-radius: 20px;
+
+padding-bottom: 10px;
+}
